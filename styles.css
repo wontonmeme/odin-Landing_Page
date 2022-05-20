@@ -1,0 +1,18 @@
+div {
+    font-family: "Roboto";
+    font-weight: normal;
+}
+.flex-container {
+    display: flex;
+}
+
+.dark {
+    background-color: #1F2937;
+}
+.white {
+    background-color:white;
+}
+.grey {
+    background-color: #E5E7Eb;
+}
+#
