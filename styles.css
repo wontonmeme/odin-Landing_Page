@@ -7,6 +7,7 @@ div {
     justify-content: space-between;
     flex-direction: row;
 }
+
 .item {
     display: flex;
     gap: 10px;
@@ -50,4 +51,19 @@ div {
 }
 body {
     margin: 0%;
+}
+#main_img {
+    flex: 1 1 auto;
+    width: 360px;
+
+}
+#main_text {
+    flex: 1 1 0%;
+}
+#button {
+    background-color: #3882F6;
+    border-radius: 5px;
+    border: #3882F6;
+    width: 100px;
+    text-align: center;
 }
